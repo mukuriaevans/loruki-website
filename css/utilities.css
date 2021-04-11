@@ -87,6 +87,10 @@
     font-size: 4rem;
 }
 
+.h2 bold{
+    font-weight: bold;
+}
+
 
 .text-center {
     text-align: center  !important; 

@@ -251,6 +251,10 @@ code, pre {
     justify-self: flex-end;
 }
 
+.docs-main h2 {
+    font-weight: bold;
+}
+
 .docs-main h3 {
     margin: 20px 0;
 }
