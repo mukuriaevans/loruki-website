@@ -271,6 +271,15 @@ code, pre {
     font-weight: bold;
 }
 
+/*  */
+.requirement i {
+    margin-right: 10px;
+    line-height: 1.2;
+}
+
+
+
+
 /* Animations */
 @keyframes slideInFromLeft {
     0% {
