@@ -49,8 +49,8 @@ img {
 }
 
 code, pre {
-    background: #333;
-    color: #fff;
+    background: #002240;
+    color: #84D9DE;
     padding: 10px;
 }
 
@@ -281,6 +281,13 @@ code, pre {
     line-height: 1.2;
 }
 
+.requirement img {
+    width: 30px;
+    margin-right: 10px;
+    margin-bottom: -10px;
+    
+}
+
 
 
 
@@ -382,6 +389,7 @@ code, pre {
     .features-sub-head img,
     .docs-head img {
         justify-self: center;
+        width: 150px;
     }
 
     .features-main .grid > *:first-child,
@@ -406,6 +414,7 @@ code, pre {
     .navbar ul {
         padding: 10px;
         background-color: rgba(0, 0, 0, 0.1);
+        border-radius: 15px;
 
     }
 
@@ -418,4 +427,6 @@ code, pre {
         justify-self: center;
         
     }
+
+    
 }
