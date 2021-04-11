@@ -328,7 +328,12 @@ code, pre {
 
 /* Footer */
 .footer .social a {
-    margin: 0 10px
+    margin-right: 15px
+}
+
+.footer .grid-1 {
+    margin-top: 35px;
+    margin-bottom: -65px;
 }
 
 /* Tablets and under */
@@ -404,8 +409,13 @@ code, pre {
 
     }
 
+    .showcase-form {
+        max-width: 300px;
+        margin: auto 20px;
+    }
+
     .showcase-form .card{
         justify-self: center;
-        margin: auto 20px;
+        
     }
 }
